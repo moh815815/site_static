@@ -1,0 +1,36 @@
+0 verbose cli /usr/local/nvm/versions/node/v24.14.1/bin/node /usr/local/nvm/versions/node/v24.14.1/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.12.1
+2 info using node@v24.14.1
+3 silly config load:file:/usr/local/nvm/versions/node/v24.14.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/mohamadsayed831/static-builder/.npmrc
+5 silly config load:file:/home/mohamadsayed831/.npmrc
+6 silly config load:file:/usr/local/nvm/versions/node/v24.14.1/etc/npmrc
+7 verbose title npm exec create-next-app@latest . --ts --tailwind --app --src-dir --import-alias @/* --no-git
+8 verbose argv "exec" "--" "create-next-app@latest" "." "--ts" "--tailwind" "--app" "--src-dir" "--import-alias" "@/*" "--no-git"
+9 verbose logfile logs-max:10 dir:/home/mohamadsayed831/.npm/_logs/2026-04-21T08_56_43_001Z-
+10 verbose logfile /home/mohamadsayed831/.npm/_logs/2026-04-21T08_56_43_001Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+14 http fetch GET 200 https://registry.npmjs.org/create-next-app 221ms (cache miss)
+15 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+16 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+17 silly idealTree buildDeps
+18 silly fetch manifest create-next-app@16.2.4
+19 silly packumentCache full:https://registry.npmjs.org/create-next-app cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/create-next-app 437ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/create-next-app set size:undefined disposed:false
+22 silly placeDep ROOT create-next-app@16.2.4 OK for:  want: 16.2.4
+23 silly reify moves {}
+24 silly audit bulk request { 'create-next-app': [ '16.2.4' ] }
+25 http cache create-next-app@https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.4.tgz 0ms (cache hit)
+26 silly tarball no local data for create-next-app@https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.4.tgz. Extracting by manifest.
+27 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 180ms
+28 silly audit report {}
+29 http fetch GET 200 https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.4.tgz 327ms (cache miss)
+30 verbose cwd /home/mohamadsayed831/static-builder
+31 verbose os Linux 6.6.123+
+32 verbose node v24.14.1
+33 verbose npm  v11.12.1
+34 verbose exit 1
+35 verbose code 1
