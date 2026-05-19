@@ -1,0 +1,13 @@
+2026-03-02 15:30:15.542 [info] 
+
+
+
+
+2026-03-02 15:30:15.567 [info] Extension host agent started.
+2026-03-02 15:30:15.625 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mohamadsayed831/.codeoss/extensions
+2026-03-02 15:30:15.674 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mohamadsayed831/.codeoss/extensions
+2026-03-02 15:30:19.742 [info] [127.0.0.1][1cda394a][ManagementConnection] New connection established.
+2026-03-02 15:30:19.862 [info] [127.0.0.1][9064ac1d][ExtensionHostConnection] New connection established.
+2026-03-02 15:30:22.745 [info] [127.0.0.1][9064ac1d][ExtensionHostConnection] <1391> Launched Extension Host Process.
+2026-03-02 15:32:45.713 [info] [127.0.0.1][1cda394a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-03-02 15:32:45.858 [info] [127.0.0.1][9064ac1d][ExtensionHostConnection] <1391> Extension Host Process exited with code: 0, signal: null.
